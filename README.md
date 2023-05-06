@@ -19,7 +19,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, Django, DRF, Flask, Git, 
 
 - Asyncio, aiohttp, aiogram (https://github.com/IlinSergey/tg_bot_test)
 
--python-telegram-bot, MongoDB, Pytest (https://github.com/IlinSergey/RLT_test)
+- python-telegram-bot, MongoDB, Pytest (https://github.com/IlinSergey/RLT_test)
 
 ## Сертификаты
 
