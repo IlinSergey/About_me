@@ -12,6 +12,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, Django, DRF, Flask, Git, 
 - MongoDB, REST, python-telegram-bot (https://github.com/IlinSergey/mybot)
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
 - REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
+- PostgreSQL, python-telegram-bot, REST, OpenAI (https://github.com/IlinSergey/job_search_helper)
 
 ## Тестовые задания
 
