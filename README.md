@@ -13,6 +13,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, Django, DRF, Flask, Git, 
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
 - REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
 - PostgreSQL, python-telegram-bot, REST, OpenAI (https://github.com/IlinSergey/job_search_helper)
+- FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
 
 ## Тестовые задания
 
