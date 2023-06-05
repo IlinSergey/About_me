@@ -4,7 +4,7 @@
 
 ## Мой стек
 
-Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS
+Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS
 
 ## Вот что я умею
 
