@@ -4,7 +4,7 @@
 
 ## Мой стек
 
-Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS
+Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS, Selenium
 
 ## Вот что я умею
 
@@ -28,3 +28,4 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Fla
 - Python (https://github.com/IlinSergey/sertificats/blob/main/stepik-certificate.pdf)
 - Python (https://github.com/IlinSergey/sertificats/blob/main/Netology.pdf)
 - Python (https://github.com/IlinSergey/sertificats/blob/main/LearnPython.pdf)
+- Selenium (https://github.com/IlinSergey/sertificats/blob/main/selenium.pdf)
