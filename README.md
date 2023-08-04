@@ -29,3 +29,4 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Fla
 - Python (https://github.com/IlinSergey/sertificats/blob/main/Netology.pdf)
 - Python (https://github.com/IlinSergey/sertificats/blob/main/LearnPython.pdf)
 - Selenium (https://github.com/IlinSergey/sertificats/blob/main/selenium.pdf)
+- Asyncio (https://github.com/IlinSergey/sertificats/blob/main/async.pdf)
