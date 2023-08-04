@@ -19,9 +19,12 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB), REST, FastAPI, Django, DRF, Fla
 
 - Django, DRF, Pytest (https://github.com/IlinSergey/django_backend_developer_test)
 
+- Django, DRF (https://github.com/IlinSergey/APPTRIX)
+
 - Asyncio, aiohttp, aiogram (https://github.com/IlinSergey/tg_bot_test)
 
 - python-telegram-bot, MongoDB, Pytest (https://github.com/IlinSergey/RLT_test)
+
 
 ## Сертификаты
 
