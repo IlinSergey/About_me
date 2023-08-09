@@ -13,7 +13,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
 - REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
 - PostgreSQL, python-telegram-bot, REST, OpenAI (https://github.com/IlinSergey/job_search_helper)
-- FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
+
 
 ## Тестовые задания
 
@@ -24,6 +24,10 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 - Asyncio, aiohttp, aiogram (https://github.com/IlinSergey/tg_bot_test)
 
 - python-telegram-bot, MongoDB, Pytest (https://github.com/IlinSergey/RLT_test)
+
+- Aiohttp, aiofiles, redis, Pyrogram (https://github.com/IlinSergey/it_become_talent_test)
+
+- FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
 
 
 ## Сертификаты
