@@ -4,7 +4,7 @@
 
 ## Мой стек
 
-Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS, Selenium
+Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, DRF, Flask, Git, Linux, Asyncio, Pytest, HTML/CSS, Selenium, Docker
 
 ## Вот что я умею
 
@@ -12,7 +12,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 - MongoDB, REST, python-telegram-bot (https://github.com/IlinSergey/mybot)
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
 - REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
-- PostgreSQL, python-telegram-bot, REST, OpenAI (https://github.com/IlinSergey/job_search_helper)
+- PostgreSQL, python-telegram-bot, REST, OpenAI, Docker (https://github.com/IlinSergey/job_search_helper)
 
 
 ## Тестовые задания
