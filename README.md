@@ -29,6 +29,8 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 
 - FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
 
+- Aiohttp, FastApi, Docker (https://github.com/IlinSergey/bewise_test) 
+
 
 ## Сертификаты
 
