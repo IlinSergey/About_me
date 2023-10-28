@@ -23,7 +23,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 
 - Asyncio, aiohttp, aiogram (https://github.com/IlinSergey/tg_bot_test)
 
-- python-telegram-bot, MongoDB, Pytest (https://github.com/IlinSergey/RLT_test)
+- python-telegram-bot, MongoDB, Pytest, Docker (https://github.com/IlinSergey/RLT_test)
 
 - Aiohttp, aiofiles, redis, Pyrogram (https://github.com/IlinSergey/it_become_talent_test)
 
