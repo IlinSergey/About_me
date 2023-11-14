@@ -17,18 +17,13 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), REST, FastAPI, Django, D
 
 ## Тестовые задания
 
+- Django,  DRF, Celery (https://github.com/IlinSergey/picasso_test)
 - Django, DRF, Pytest (https://github.com/IlinSergey/django_backend_developer_test)
-
 - Django, DRF (https://github.com/IlinSergey/APPTRIX)
-
 - Asyncio, aiohttp, aiogram (https://github.com/IlinSergey/tg_bot_test)
-
 - python-telegram-bot, MongoDB, Pytest, Docker (https://github.com/IlinSergey/RLT_test)
-
 - Aiohttp, aiofiles, redis, Pyrogram (https://github.com/IlinSergey/it_become_talent_test)
-
 - FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
-
 - Aiohttp, FastApi, Docker (https://github.com/IlinSergey/bewise_test) 
 
 
