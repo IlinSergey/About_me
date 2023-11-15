@@ -24,7 +24,8 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 - python-telegram-bot, MongoDB, Pytest, Docker (https://github.com/IlinSergey/RLT_test)
 - Aiohttp, aiofiles, redis, Pyrogram (https://github.com/IlinSergey/it_become_talent_test)
 - FastApi, SQLite, SQLAlchemy, Alembic (https://gitlab.com/IlinSergey/cft-test)
-- Aiohttp, FastApi, Docker (https://github.com/IlinSergey/bewise_test) 
+- Aiohttp, FastApi, Docker (https://github.com/IlinSergey/bewise_test)
+- Flask,  TinyDB (https://github.com/IlinSergey/leadhit_test)
 
 
 ## Сертификаты
