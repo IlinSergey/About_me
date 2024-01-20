@@ -28,6 +28,9 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 - Aiohttp, FastApi, Docker (https://github.com/IlinSergey/bewise_test)
 
 
+## Диплом
+
+- Python Developer (https://github.com/IlinSergey/sertificats/blob/main/Diplom.jpg)
 
 ## Сертификаты
 
