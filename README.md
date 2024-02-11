@@ -8,10 +8,10 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 
 ## Вот что я умею
 
-
+- Pytest (https://github.com/IlinSergey/testing_exercises)
+- Typing (https://github.com/IlinSergey/typing_challenges)
 - MongoDB, REST, python-telegram-bot (https://github.com/IlinSergey/mybot)
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
-- REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
 - PostgreSQL, SQLAlchemy, REST, OpenAI, Docker, Pytest (https://github.com/IlinSergey/job_search_helper)
 
 
