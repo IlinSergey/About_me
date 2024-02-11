@@ -8,11 +8,11 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 
 ## Вот что я умею
 
-- Django (https://github.com/IlinSergey/tutor)
+
 - MongoDB, REST, python-telegram-bot (https://github.com/IlinSergey/mybot)
 - Flask, SQLAlchemy, BeautifulSoup (https://github.com/IlinSergey/learn_web)
 - REST, SQLite, SQLAlchemy (https://github.com/IlinSergey/VKInder)
-- PostgreSQL, python-telegram-bot, REST, OpenAI, Docker (https://github.com/IlinSergey/job_search_helper)
+- PostgreSQL, SQLAlchemy, REST, OpenAI, Docker, Pytest (https://github.com/IlinSergey/job_search_helper)
 
 
 ## Тестовые задания
@@ -34,9 +34,10 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 
 ## Сертификаты
 
+- Python (https://github.com/IlinSergey/sertificats/blob/main/LearnPython_Advanced.pdf)
+- Python (https://github.com/IlinSergey/sertificats/blob/main/LearnPython.pdf)
 - Python (https://github.com/IlinSergey/sertificats/blob/main/stepik-certificate.pdf)
 - Python (https://github.com/IlinSergey/sertificats/blob/main/Netology.pdf)
-- Python (https://github.com/IlinSergey/sertificats/blob/main/LearnPython.pdf)
 - Selenium (https://github.com/IlinSergey/sertificats/blob/main/selenium.pdf)
 - Asyncio (https://github.com/IlinSergey/sertificats/blob/main/asyncio.pdf)
 - Docker (https://github.com/IlinSergey/sertificats/blob/main/Docker.pdf)
