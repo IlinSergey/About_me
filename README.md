@@ -17,6 +17,7 @@ Python, SQL(PostgreSQL, SQLite), NOSQL(MongoDB, Redis), Celery, REST, FastAPI, D
 
 ## Тестовые задания
 
+- Django, Docker, Pytest (https://github.com/IlinSergey/anverali_test)
 - Flask,  TinyDB (https://github.com/IlinSergey/leadhit_test)
 - Django,  DRF, Celery (https://github.com/IlinSergey/picasso_test)
 - Django, DRF, Pytest (https://github.com/IlinSergey/django_backend_developer_test)
